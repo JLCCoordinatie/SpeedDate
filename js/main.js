@@ -29,7 +29,7 @@ let used = [
   ['Welke superkracht zou je kiezen: Ontzichtbaar zijn of door de tijd kunnen reizen?', 'What superpower would you choose: Being invisible or traveling through time?'],
   ['Wat is tot zover je mening over het Alma eten?', 'What are you opinions on the alma food so far?'],
   ['Wat is je favoriete maand van het jaar en waarom?', 'What is your favourite month of the year and why?'],
-  ['Wat is het laatste boek dan je hebt gelezen of aan het lezen bent? Wat vond/vind je ervan?', 'What is the last book you\'ve read or are currently reading? What do/did you think of it?'],
+  ['Wat is het laatste boek dat je hebt gelezen of aan het lezen bent? Wat vond/vind je ervan?', 'What is the last book you\'ve read or are currently reading? What do/did you think of it?'],
   ['Wat zijn je grootste ergernissen bij andere mensen?', 'What are your biggest pet peeves of other people?'],
   ['Wat drink je meestal tijdens het uitgaan?', 'What do you usually drink when going out?'],
   ['Wat zijn je (vreemdste) gewoontes tijdens het uitgaan?', 'What are you (weirdest) habits when going out?'],
